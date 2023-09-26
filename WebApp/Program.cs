@@ -18,6 +18,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 //Commit 1
+//Commit 2
 app.UseAuthorization();
 
 app.MapRazorPages();
