@@ -22,6 +22,7 @@ app.UseRouting();
 //Commit 3
 app.UseAuthorization();
 //git commit 1
+//git commit 2
 app.MapRazorPages();
 
 app.Run();
