@@ -17,7 +17,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+//Commit 1
 app.UseAuthorization();
 
 app.MapRazorPages();
